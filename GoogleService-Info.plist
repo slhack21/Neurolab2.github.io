@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+  <dict>
+    <key>API_KEY</key>
+    <string>AIzaSyBmOFNz8eAamiAF0290tk3NQeQjk4EHpDs</string>
+    <key>PROJECT_ID</key>
+    <string>neurolab-24244</string>
+    <key>CLIENT_ID</key>
+    <string>642655436205.apps.googleusercontent.com</string>
+    <key>DATABASE_URL</key>
+    <string>https://neurolab-24244.firebaseio.com</string>
+    <key>STORAGE_BUCKET</key>
+    <string>neurolab-24244.appspot.com</string>
+    <key>SENDER_ID</key>
+    <string>642655436205</string>
+    <key>APP_ID</key>
+    <string>1:642655436205:ios:ccacee2e544f8009443524</string>
+    <!-- D'autres clés Firebase spécifiques à ton projet -->
+  </dict>
+</plist>
